@@ -2,7 +2,6 @@
 <h3 align="center">Um estudante de Ciência da Computação</h3>
 
 - 📫 Como me contatar **vinicius.v.r.faria@gmail.com**
-- Currículo https://docs.google.com/document/d/14mSLxtnHBKtqqVII-rwPBr2we5Yp3kKyiWiDSU4bn9s/edit?tab=t.0#heading=h.k4cyqvjit4sm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
