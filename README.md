@@ -1,8 +1,7 @@
 <h1 align="center">Olá 👋,Eu sou o Vinícius Von</h1>
 <h3 align="center">Um estudante de Ciência da Computação</h3>
 
-- 📫 Como me contatar **vinicius.v.r.faria@gmail.com**
-- 📰 CV https://docs.google.com/document/d/1aeN5neXuS93m7xyWW3L_rsHYYSJpxYjW/edit?usp=sharing&ouid=115254626476506079155&rtpof=true&sd=true
+- 📫 Como me contatar **euvinico.io@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
